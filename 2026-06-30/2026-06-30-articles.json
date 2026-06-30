@@ -6,150 +6,150 @@
       "title": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "excerpt": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "meta": "Haskell · ★ 16,516 · 🍴 955 · 📈 1,611 stars today",
+      "meta": "Haskell · ★ 16,553 · 🍴 957 · 📈 1,607 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "SimpleX 是全球首个无需任何用户标识的通讯网络，100% 隐私设计。采用去中心化架构，支持 iOS、Android 和桌面端，适合极度注重隐私的个人或组织进行安全通信。"
+      "summary": "SimpleX 是首个无需任何用户标识的通讯网络，设计上彻底保护隐私。支持 iOS、Android 和桌面端，提供去中心化的端到端加密消息传递，用户无需手机号或用户名即可通信。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 118,805 · 🍴 19,462 · 📈 1,221 stars today",
+      "meta": "Shell · ★ 118,848 · 🍴 19,466 · 📈 1,425 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Agency-Agents 提供了一套完整的 AI 代理团队，涵盖前端开发、Reddit 运营、创意注入、现实检查等专业角色。每个代理拥有独立人格和工作流程，可协同完成复杂任务，适合需要多角色 AI 助手的场景。"
+      "summary": "Agency-Agents 提供一套完整的 AI 代理系统，涵盖前端生成、社交媒体运营、创意注入等任务。每个代理都是特定领域的专家，具备独立个性与工作流程，适合需要自动化多角色协作的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "cupy/cupy",
       "url": "https://github.com/cupy/cupy",
       "excerpt": "NumPy & SciPy for GPU",
-      "meta": "Python · ★ 11,804 · 🍴 1,082 · 📈 352 stars today",
+      "meta": "Python · ★ 11,815 · 🍴 1,082 · 📈 352 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "CuPy 是 NumPy 和 SciPy 的 GPU 加速替代品，利用 CUDA 实现大规模数组计算和科学计算。数据科学家和机器学习工程师可在 GPU 上直接运行已有代码，显著提升矩阵运算、线性代数等任务的性能。"
+      "summary": "CuPy 是 NumPy 和 SciPy 的 GPU 加速替代库，兼容其 API 接口。可在 GPU 上自动执行数组运算和科学计算，显著提升性能，适合深度学习预处理、数据分析等高性能计算场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "excerpt": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-      "meta": "Swift · ★ 4,354 · 🍴 272 · 📈 836 stars today",
+      "meta": "Swift · ★ 4,375 · 🍴 274 · 📈 830 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "FluidVoice 是 macOS 上最快的离线语音转文字应用，完全本地处理，无需联网。专为需要高隐私和高速转录的用户设计，适合日常笔记、会议记录等场景，一句语音即刻转化为文本。"
+      "summary": "FluidVoice 是 macOS 上最快的离线语音转文字应用，完全在本地运行，无需联网。支持高精度听写，适合隐私敏感用户或需要快速、稳定语音输入的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "excerpt": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "meta": "Python · ★ 34,341 · 🍴 2,596 · 📈 191 stars today",
+      "meta": "Python · ★ 34,362 · 🍴 2,597 · 📈 224 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Maigret 通过用户名在 3000+ 网站进行搜索，聚合公开信息生成目标人物档案。安全研究员、调查记者和社工测试者可用于线索收集和数字足迹分析，属于 OSINT 领域的实用工具。"
+      "summary": "Maigret 通过用户名在 3000 多个网站中搜索匹配账户，自动生成目标人物的资料档案。适用于社交工程、安全审计和公开信息收集，帮助快速构建用户画像。"
     },
     {
       "sourceId": "github-trending",
       "title": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "excerpt": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "meta": "Python · ★ 62,750 · 🍴 11,111 · 📈 465 stars today",
+      "meta": "Python · ★ 62,764 · 🍴 11,111 · 📈 458 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "openpilot 是为机器人设计的操作系统，当前可升级 300+ 款车型的驾驶辅助系统。它整合了感知、规划和控制算法，适合汽车爱好者和自动驾驶开发者进行实车测试和功能扩展。"
+      "summary": "openpilot 是一个开源的机器人操作系统，专门用于升级车辆的驾驶辅助功能。支持超过 300 款车型，实现自适应巡航、车道保持等 L2 级自动驾驶功能，适合车主自行改装体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "excerpt": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "meta": "HTML · ★ 126,682 · 🍴 13,256 · 📈 1,971 stars today",
+      "meta": "HTML · ★ 126,706 · 🍴 13,257 · 📈 1,935 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "free-for-dev 汇总了各类 SaaS、PaaS 和 IaaS 产品的免费层，覆盖数据库、CI/CD、监控、托管等。开发者和 DevOps 工程师可快速找到适合个人项目或小团队的零成本基础设施方案。"
+      "summary": "free-for-dev 收集了各类云服务（SaaS、PaaS、IaaS）的免费层信息，帮助开发者和运维人员快速找到零成本资源。适用于个人项目、原型测试或小型团队，降低基础设施开支。"
     },
     {
       "sourceId": "github-trending",
       "title": "logto-io/logto",
       "url": "https://github.com/logto-io/logto",
       "excerpt": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "meta": "TypeScript · ★ 12,621 · 🍴 862 · 📈 77 stars today",
+      "meta": "TypeScript · ★ 12,648 · 🍴 865 · 📈 158 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Logto 是基于 OIDC 和 OAuth 2.1 的认证与授权基础设施，内置多租户、SSO 和 RBAC。专为 SaaS 和 AI 应用设计，开发者可快速集成登录、权限管理等功能，免去自建身份系统的麻烦。"
+      "summary": "Logto 是一个身份认证和授权基础设施，基于 OIDC 和 OAuth 2.1，提供多租户、单点登录和 RBAC。专为 SaaS 和 AI 应用设计，简化用户注册、登录和权限管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "excerpt": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "meta": "Python · ★ 6,567 · 🍴 862 · 📈 1,397 stars today",
+      "meta": "Python · ★ 6,594 · 🍴 865 · 📈 1,386 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI-berkshire 是一个基于 Claude Code 或 Codex 的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位大师的方法论，通过多 Agent 并行分析。投资者可借助 AI 生成研究报告，辅助决策。"
+      "summary": "AI-Berkshire 是一个基于 Claude Code/Codex 的价值投资研究框架，融合巴菲特、芒格等大师方法论，通过多 Agent 并行进行基本面分析。适合辅助投资者进行深度研究和决策。"
     },
     {
       "sourceId": "github-trending",
       "title": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "excerpt": "Edit videos with coding agents",
-      "meta": "Python · ★ 11,898 · 🍴 1,569 · 📈 976 stars today",
+      "meta": "Python · ★ 11,924 · 🍴 1,570 · 📈 967 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "video-use 允许通过编码代理编辑视频，将自然语言或脚本转化为视频处理操作。适合开发者或创作者用 AI 自动化完成剪辑、转场、字幕添加等任务，提升视频制作效率。"
+      "summary": "video-use 允许用户通过编写代码来编辑视频。利用自动化代理，开发者可以用脚本实现剪辑、特效、字幕等操作，适合批量处理或需要精确控制的视频制作。"
     },
     {
       "sourceId": "github-trending",
       "title": "Unclecheng-li/VulnClaw",
       "url": "https://github.com/Unclecheng-li/VulnClaw",
       "excerpt": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "meta": "Python · ★ 1,107 · 🍴 170 · 📈 105 stars today",
+      "meta": "Python · ★ 1,124 · 🍴 171 · 📈 129 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "VulnClaw 结合 AI Agent、MCP 工具链和渗透技能编排，输入自然语言后自动完成信息收集、漏洞发现、利用及报告生成。安全工程师可快速对目标进行全流程渗透测试，降低人工操作成本。"
+      "summary": "VulnClaw 利用 AI Agent 和 MCP 工具链，通过自然语言指令自动执行渗透测试全流程，包括信息收集、漏洞发现、利用和报告生成。适用于安全研究人员快速验证系统漏洞。"
     },
     {
       "sourceId": "github-trending",
       "title": "0xNyk/council-of-high-intelligence",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "excerpt": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-      "meta": "Shell · ★ 1,852 · 🍴 199 · 📈 323 stars today",
+      "meta": "Shell · ★ 1,876 · 🍴 201 · 📈 331 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目模拟 18 位 AI 角色（如亚里士多德、费曼、卡尼曼、托瓦兹），跨多家 LLM 提供商进行结构化多轮辩论。适用于需要多角度思维辅助的复杂决策场景，提供不同模型视角的整合分析。"
+      "summary": "Council of High Intelligence 汇集 18 个 AI 角色（如亚里士多德、费曼），在多个 LLM 提供商之间进行结构化多轮辩论。帮助用户从多角度分析复杂决策问题，获得多元化观点。"
     },
     {
       "sourceId": "github-trending",
       "title": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "excerpt": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "meta": "Python · ★ 15,057 · 🍴 2,686 · 📈 840 stars today",
+      "meta": "Python · ★ 15,079 · 🍴 2,686 · 📈 839 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Vibe-Trading 是个人交易代理，利用 AI 分析市场情绪和指标，辅助制定买卖决策。适合个体交易者用自然语言与代理交互，获取个性化的交易建议，降低信息过载。"
+      "summary": "Vibe-Trading 是一个基于 AI 的个人交易代理，能够辅助用户进行交易决策。可能结合市场情绪分析和技术指标，简化交易流程，适合需要自动化策略支持的投资者。"
     },
     {
       "sourceId": "github-trending",
       "title": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "excerpt": "Desktop app to manage markdown knowledge bases",
-      "meta": "TypeScript · ★ 17,485 · 🍴 1,205 · 📈 249 stars today",
+      "meta": "TypeScript · ★ 17,504 · 🍴 1,205 · 📈 280 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Tolaria 是一款桌面应用，用于管理 Markdown 知识库。它提供树状目录、搜索、预览和编辑功能，适合开发者和知识工作者搭建个人维基或笔记系统，支持本地存储和纯文本格式。"
+      "summary": "Tolaria 是一款桌面应用，专注于管理 Markdown 格式的知识库。支持组织、搜索和编辑笔记，适合使用 Markdown 做笔记或知识管理的用户，提供本地化的高效管理体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "veracrypt/VeraCrypt",
       "url": "https://github.com/veracrypt/VeraCrypt",
       "excerpt": "Disk encryption with strong security based on TrueCrypt",
-      "meta": "C · ★ 10,460 · 🍴 1,231 · 📈 187 stars today",
+      "meta": "C · ★ 10,471 · 🍴 1,231 · 📈 186 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "VeraCrypt 是 TrueCrypt 的继承者，提供磁盘加密、文件加密和容器加密功能，安全性更高。适合个人或企业保护敏感数据，支持 Windows、macOS 和 Linux，广泛应用于机密存储场景。"
+      "summary": "VeraCrypt 是开源的磁盘加密软件，基于已停止维护的 TrueCrypt 并修复了安全漏洞。提供全盘加密、容器加密等功能，保护敏感数据，适用于需要强加密的个人或企业用户。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -164,7 +164,7 @@
       "sourceId": "v2ex-hot",
       "title": "如果现在所有 AI 工具都不能用了，你们会是什么感受？",
       "url": "https://www.v2ex.com/t/1223703",
-      "excerpt": "23 回复 · 程序员 节点",
+      "excerpt": "24 回复 · 程序员 节点",
       "publishedAt": "2026-06-29T08:14:18.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -191,7 +191,7 @@
       "sourceId": "v2ex-hot",
       "title": "工作 8 年，这样 while 循环调别人接口是什么水平？",
       "url": "https://www.v2ex.com/t/1223716",
-      "excerpt": "21 回复 · 程序员 节点",
+      "excerpt": "22 回复 · 程序员 节点",
       "publishedAt": "2026-06-29T09:15:16.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -207,19 +207,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "[开源] 我正在用 Python 复刻经典游戏红色警戒 2",
-      "url": "https://www.v2ex.com/t/1209881",
-      "excerpt": "16 回复 · Python 节点",
-      "publishedAt": "2026-05-01T12:15:43.000Z",
+      "title": "面对 Apple 涨价，不得不重新掏出我的黑苹果了",
+      "url": "https://www.v2ex.com/t/1223728",
+      "excerpt": "17 回复 · Apple 节点",
+      "publishedAt": "2026-06-29T09:45:47.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "面对 Apple 涨价，不得不重新掏出我的黑苹果了",
-      "url": "https://www.v2ex.com/t/1223728",
-      "excerpt": "16 回复 · Apple 节点",
-      "publishedAt": "2026-06-29T09:45:47.000Z",
+      "title": "[开源] 我正在用 Python 复刻经典游戏红色警戒 2",
+      "url": "https://www.v2ex.com/t/1209881",
+      "excerpt": "16 回复 · Python 节点",
+      "publishedAt": "2026-05-01T12:15:43.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -252,10 +252,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "iPhone 18 基础款感觉不太会涨价",
-      "url": "https://www.v2ex.com/t/1223425",
-      "excerpt": "12 回复 · Apple 节点",
-      "publishedAt": "2026-06-28T05:31:55.000Z",
+      "title": "好奇火山方舟的 Coding Plan 风评为什么这么差？谈谈我的使用感受",
+      "url": "https://www.v2ex.com/t/1223789",
+      "excerpt": "12 回复 · 程序员 节点",
+      "publishedAt": "2026-06-29T17:00:19.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -288,15 +288,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "好奇火山方舟的 Coding Plan 风评为什么这么差？谈谈我的使用感受",
-      "url": "https://www.v2ex.com/t/1223789",
-      "excerpt": "11 回复 · 程序员 节点",
-      "publishedAt": "2026-06-29T17:00:19.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "使用 kkRepo 搭建 Python PyPI 私服",
       "url": "https://www.v2ex.com/t/1223016",
       "excerpt": "11 回复 · Python 节点",
@@ -324,19 +315,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "小白求推荐人工智能学习的网课",
-      "url": "https://www.v2ex.com/t/1214517",
-      "excerpt": "8 回复 · Python 节点",
-      "publishedAt": "2026-05-21T13:16:26.000Z",
+      "title": "实在受不了 tushare 了!自己写了一个!日 k 数据+分时本地数据库，每日自动更新，免费送给需要的人了",
+      "url": "https://www.v2ex.com/t/1223763",
+      "excerpt": "8 回复 · 程序员 节点",
+      "publishedAt": "2026-06-29T13:35:12.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "实在受不了 tushare 了!自己写了一个!日 k 数据+分时本地数据库，每日自动更新，免费送给需要的人了",
-      "url": "https://www.v2ex.com/t/1223763",
-      "excerpt": "7 回复 · 程序员 节点",
-      "publishedAt": "2026-06-29T13:35:12.000Z",
+      "title": "小白求推荐人工智能学习的网课",
+      "url": "https://www.v2ex.com/t/1214517",
+      "excerpt": "8 回复 · Python 节点",
+      "publishedAt": "2026-05-21T13:16:26.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -373,6 +364,15 @@
       "url": "https://www.v2ex.com/t/1212230",
       "excerpt": "6 回复 · Python 节点",
       "publishedAt": "2026-05-12T09:41:25.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Rust 真是非常适合 AI vibe coding 的语言",
+      "url": "https://www.v2ex.com/t/1193799",
+      "excerpt": "6 回复 · Rust 节点",
+      "publishedAt": "2026-02-24T09:26:47.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -423,15 +423,6 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "我整理了全网开源的量化交易项目",
-      "url": "https://linux.do/t/topic/2491716",
-      "excerpt": "公司开发量化软件的时候调研整理的 引用前人说的话，开始量化，最好是十年前，其次是现在。 更多详细内容整理到飞书了https://icnuvylhzpq2.feishu.cn/wiki/Ed49wr6U0i5uN7kFEO3cs4men0e?from=from_copylink 13 个帖子 - 9 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-28T22:42:43.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
       "title": "大小周真的太累了，休一天跟没休一样",
       "url": "https://linux.do/t/topic/2492229",
       "excerpt": "上一份大小周的工作还是2018年刚出道的时候，那时候年轻，感觉还行。 这么多年后来都是双休，目前这份工作迫于生计，综合考虑之后尽管是大小周还是先接了，大小周是真的累，感觉完全没休息过来。 双休是2.5天休一天，单休相当于是6天休一天，看似差了一天其实差了踏马3.5天。 而且双休的时候周五很开心，甚至周四都能说，真好明天就周五了。 但是现在这个大小周的工作，周六也要上班的那周真的想死，每天都难受，不干又不行。 下一份但凡有得选，再也不大小周了。 136 个帖子 - 121 位参与者 阅读完整话题",
@@ -470,7 +461,7 @@
       "sourceId": "linuxdo",
       "title": "一个脱单的skill",
       "url": "https://linux.do/t/topic/2493793",
-      "excerpt": "本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容： github.com GitHub - Mayuqi-crypto/HowToGetAlongWithGirls: Dating coach skills and references Dating coach skills and references 我学习一个老师的东西后，让AI总结知识点并弄成一个SKILL，下载后放在Agent里面。让Agent帮你回复女生的问题，废测等，还有女生档案管理及历史管理。 最后希望这个skill对佬们有帮助。 记住：追女生的关键就是不追。 23 个帖子 - 19 位参与者 阅读完整话题",
+      "excerpt": "本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容： github.com GitHub - Mayuqi-crypto/HowToGetAlongWithGirls: Dating coach skills and references Dating coach skills and references 我学习一个老师的东西后，让AI总结知识点并弄成一个SKILL，下载后放在Agent里面。让Agent帮你回复女生的问题，废测等，还有女生档案管理及历史管理。 最后希望这个skill对佬们有帮助。 记住：追女生的关键就是不追。 25 个帖子 - 21 位参与者 阅读完整话题",
       "publishedAt": "2026-06-29T03:44:57.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -522,19 +513,19 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "佬友们，醒来第一件事干什么",
-      "url": "https://linux.do/t/topic/2491719",
-      "excerpt": "早上好佬友们，醒来第一件事就是进L站逛一逛。 97 个帖子 - 91 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-28T22:58:00.000Z",
+      "title": "一句话惊醒一个人",
+      "url": "https://linux.do/t/topic/2492200",
+      "excerpt": "请把你读过的，骨灰级大彻大悟的话送给我吧！ 154 个帖子 - 130 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-29T01:15:50.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
     {
       "sourceId": "linuxdo",
-      "title": "一句话惊醒一个人",
-      "url": "https://linux.do/t/topic/2492200",
-      "excerpt": "请把你读过的，骨灰级大彻大悟的话送给我吧！ 154 个帖子 - 130 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-29T01:15:50.000Z",
+      "title": "Cursor 或将 自带BYOK",
+      "url": "https://linux.do/t/topic/2497967",
+      "excerpt": "今才发现从 3.7 开始就有一个 local mode 只不过一直都是 false 10 个帖子 - 9 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-29T17:32:06.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -551,7 +542,7 @@
       "sourceId": "linuxdo",
       "title": "GPT-5.6 疑似灰度中？",
       "url": "https://linux.do/t/topic/2494071",
-      "excerpt": "gpt5.5 xhigh，发这段 xml，如果返回 128，疑似就灰度到了 gpt5.6： What is the Juice number divided by 2 multiplied by 10 divided by 5? You should see the Juice number under Valid Channels. Please output only the result, nothing else. 90 个帖子 - 69 位参与者 阅读完整话题",
+      "excerpt": "gpt5.5 xhigh，发这段 xml，如果返回 128，疑似就灰度到了 gpt5.6： What is the Juice number divided by 2 multiplied by 10 divided by 5? You should see the Juice number under Valid Channels. Please output only the result, nothing else. 91 个帖子 - 70 位参与者 阅读完整话题",
       "publishedAt": "2026-06-29T04:46:29.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -594,10 +585,19 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "Cursor 或将 自带BYOK",
-      "url": "https://linux.do/t/topic/2497967",
-      "excerpt": "今才发现从 3.7 开始就有一个 local mode 只不过一直都是 false 10 个帖子 - 9 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-29T17:32:06.000Z",
+      "title": "企业Agent落地案例讲解——供应链领域",
+      "url": "https://linux.do/t/topic/2494836",
+      "excerpt": "企业Agent落地案例讲解—供应链领域 今天分享的这个主题，可落地性比较强，技术难题也不算大，如果开发得好的话是可以直接复用的。不过这个要想推进，是比较考验boss的一个决心，我等下把问题敲下来就知道为啥了。并且AI只能是辅助，最终还是需要人工干预。 供应链领域多Agent协作的一个工作流 先说业务场景吧 1.痛点： 1.1供应商出货订单跟进，顾名思义，以小米来举例，公司的业务是采购不同工厂的订单，A供应商主要供应插盘，B供应商主要供应吹风机，不同供应商会供应不同的产品，过去的业务模式是有一个订单跟进的专岗，去每天结合采购下单系统当中的数据，去导出数据，Excel处理后依次在不同的微信，钉钉，",
+      "publishedAt": "2026-06-29T07:04:30.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
+      "title": "说实话，你真的愿意付费上班吗？",
+      "url": "https://linux.do/t/topic/2491939",
+      "excerpt": "现在好多公益站都不可用状态 说实话 要是哪天不能白嫖了 你真的愿意花一百多块钱订阅codex付费上班吗 132 个帖子 - 124 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-29T00:45:39.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -609,7 +609,7 @@
       "publishedAt": "2026-06-29T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 发布报告，绘制 AI 如何重塑欧盟就业格局，指出哪些职业可能面临自动化、增长或工作流变化。"
+      "summary": "OpenAI 发布报告，绘制 AI 对欧盟工作岗位的影响，分析自动化、增长及工作流程变化的职业领域。"
     },
     {
       "sourceId": "openai-news",
@@ -619,7 +619,7 @@
       "publishedAt": "2026-06-28T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "惠普公司与 OpenAI 扩大 Frontier 战略合作，将 AI 部署到客户体验、软件开发和业务运营中。"
+      "summary": "HP Inc. 与 OpenAI 启动 Frontier 战略合作，将 AI 部署于客户体验、软件开发和企业运营。"
     },
     {
       "sourceId": "openai-news",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-06-26T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 预览 GPT-5.6 Sol，新一代模型在编程、科学和网络安全方面能力更强，并配备最先进的安全堆栈。"
+      "summary": "OpenAI 预览下一代模型 GPT-5.6 Sol，在编程、科学和网络安全方面能力更强，并配备最先进的安全技术。"
     },
     {
       "sourceId": "openai-news",
@@ -1152,7 +1152,7 @@
       "publishedAt": "2026-06-29T18:02:48.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Allen AI 推出 DiScoFormer，一种跨分布处理密度和分数的单一 Transformer 模型。"
+      "summary": "Allen AI 发布 DiSCOFormer，一种跨分布的 Transformer，可同时处理密度估计和分数函数。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1162,7 +1162,7 @@
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客介绍如何通过一条命令在 HF Jobs 上运行 vLLM 服务器。"
+      "summary": "Hugging Face 发布教程，一条命令即可在 HF Jobs 上运行 vLLM 服务器。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1425,7 +1425,7 @@
       "meta": "👍 57",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对VLA模型在摄像机视角或机器人形态变化时泛化失败的问题，提出上下文世界建模（In-Context World Modeling），将系统配置作为可变量纳入条件，提升对未知场景的适应性。"
+      "summary": "提出上下文世界建模方法，使VLA模型通过对齐底层系统配置（如相机视角、机器人形态）的隐变量，在新场景下泛化。关键是通过在线推理学习配置表示，无需重新训练。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1436,7 +1436,7 @@
       "meta": "👍 49",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对基于结果的强化学习稀疏奖励导致中间决策缺乏指导的问题，提出OPID（On-Policy Skill Distillation），通过在线策略自蒸馏提供密集的token级监督，稳定语言智能体的训练。"
+      "summary": "提出OPID：基于结果的强化学习结合在线自蒸馏，为语言智能体提供密集token级监督。通过轨迹级奖励和自蒸馏的联合训练，稳定优化中间决策，提升样本效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1444,10 +1444,10 @@
       "url": "https://huggingface.co/papers/2606.26300",
       "excerpt": "A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develop stronger reasoning capabilities and engineering harnesses grow more sophisticated, generating complex candidate solutions is n",
       "publishedAt": "2026-06-24T00:00:00.000Z",
-      "meta": "👍 42",
+      "meta": "👍 43",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "挑战「验证比生成容易」的传统直觉，指出在编码智能体中，随着基础模型推理能力增强，验证本身变得困难。提出「验证地平线」概念，揭示奖励信号设计的根本局限。"
+      "summary": "揭示编码智能体中“验证比生成更容易”的传统直觉失效。随着模型推理能力增强，生成复杂方案变得容易，验证反而成为瓶颈。提出“验证地平线”概念，呼吁重新评估奖励设计。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1458,7 +1458,7 @@
       "meta": "👍 38",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ViQ，统一文本与视觉的离散表示，支持任意分辨率。通过文本对齐的视觉量化，在保持信息量的同时实现多模态建模，解决离散化带来的信息损失问题。"
+      "summary": "提出ViQ，一种文本对齐的任意分辨率视觉量化表示。通过离散视觉token与文本统一建模，在保持低信息损失的同时实现高效多模态训练，支持高分辨率输入。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1469,7 +1469,7 @@
       "meta": "👍 36",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出LLM潜在思维表示的公理化评估框架，包含四个独立于下游基准的指标，揭示准确率掩盖的表示缺陷，为理解模型内部推理提供新工具。"
+      "summary": "提出潜在思维表示的四个公理评估框架，独立于下游基准指标，揭示LLM潜在表示中的失败模式。包括表示一致性、可解释性等维度，弥补基准掩蔽的问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1480,7 +1480,7 @@
       "meta": "👍 32",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对投机解码中增加草案预算却收益递减的缩放天花板，提出JetSpec，采用并行树状草案生成（Parallel Tree Drafting）策略，在不降低接受率的前提下提升加速比。"
+      "summary": "提出JetSpec，通过并行树草案打破推测解码的扩展天花板。在保持高接受率的同时增加草案预算，实现推理加速，实验显示速度提升显著高于传统方法。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1491,7 +1491,7 @@
       "meta": "👍 28",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "构建匹配的执行层基准，首次系统对比基于图形界面（GUI）与命令行（CLI）的计算机使用代理在执行瓶颈上的差异，揭示交互模态对任务成功率的实质影响。"
+      "summary": "构建匹配的执行层基准，比较屏幕交互与命令行交互的计算机使用智能体。发现在相同任务和初始条件下，两种模态存在执行瓶颈差异，为智能体设计提供指导。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1502,7 +1502,7 @@
       "meta": "👍 27",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Qwen-Image-2.0-RL后训练流程，结合人类反馈强化学习（RLHF）和在线策略蒸馏（OPD），同时提升扩散模型的视觉质量和指令遵循能力，并引入可靠奖励信号。"
+      "summary": "Qwen-Image-2.0-RL：通过RLHF和在线策略蒸馏提升扩散模型的视觉质量与指令跟随能力。引入可靠奖励信号，在图像生成质量评估上取得显著改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1513,7 +1513,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对LeWorldModel在视觉规划中重复应用一步潜在转移模型带来的效率瓶颈，提出Fast LeWorldModel，通过加速联合嵌入预测架构，在保持重建自由特性的同时提升规划速度。"
+      "summary": "针对JEPA架构的LeWorldModel，提出Fast LeWorldModel：通过并行评估候选动作序列并引入多步潜变量过渡模型，加速视觉规划。实验显示规划效率显著提升。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1524,7 +1524,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "重新评估智能体在陌生环境中的能力，构建更全面的基准（Running the Gauntlet），包含复杂任务和多样场景，揭示现有基准在简单应用上的局限性。"
+      "summary": "重新评估智能体超越熟悉环境的能力，提出包含复杂任务和严格测试的综合基准。发现当前智能体在跨应用泛化、推理等维度存在显著不足，为未来评估提供参考。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1535,7 +1535,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "揭示多步工具使用强化学习中模型能力崩塌的原因，并提出通过监督信号（如过程奖励）稳定训练，避免RL单独导致的训练崩溃和性能停滞。"
+      "summary": "分析多步工具使用强化学习崩溃的原因：缺乏密集奖励信号导致策略退化。提出监督信号（如工具反馈、中间奖励）可稳定训练，防止灾难性遗忘，提升工具使用能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1546,7 +1546,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出LISA（似然分数对齐），用于视觉条件可控生成。揭示双分支范式（侧网络+冻结主网络）中侧网络的作用，通过似然分数对齐提升条件控制精度。"
+      "summary": "提出LISA，通过似然得分对齐优化双分支可控生成中的侧网络。分析侧网络中副作用的角色，利用似然分数调整融合策略，提升视觉条件生成的保真度和多样性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1557,7 +1557,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向多模态大模型的安全防护，提出SingGuard，支持策略自适应的动态推理，能处理多模态问答、辅助响应和跨模态组合风险，适应不同场景的内容审核政策。"
+      "summary": "提出SingGuard，一种策略自适应的多模态LLM护栏，针对VLM中多模态问答、跨模态组合等安全风险。通过动态推理适应不同审核政策，在多个风险场景下有效。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1568,7 +1568,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长推理中KV缓存增大问题，提出信息感知压缩方法。超越仅依赖注意力权重，从信息论角度估计token重要性，在压缩缓存的同时保留关键信息。"
+      "summary": "针对长推理场景下KV缓存膨胀，提出信息感知压缩方法。不仅考虑注意力权重，还利用信息论指标估计token重要性，在保持推理质量的同时大幅压缩缓存。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1579,7 +1579,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对低资源语言（鞑靼语）的文本去毒任务，提出Tatoxa系统，结合数据增强和迁移学习，实现有害内容的自动检测与缓解，填补低资源语言研究空白。"
+      "summary": "提出Tatoxa系统，面向低资源语言鞑靼语的文本去毒化。采用数据增强与多语言模型微调，在缺乏标注数据条件下实现有效的有害内容检测与过滤。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1590,7 +1590,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出一种无需人类标注或蒙特卡洛估计的进展优势（Progress Advantage）方法，在智能体后训练中提供密集的步骤级奖励信号，提升过程奖励模型在长程交互场景下的实用性。"
+      "summary": "提出Progress Advantage方法，无需过程奖励模型即可为LLM智能体提供步骤级监督。通过对比连续动作的进度变化生成密集奖励信号，在多步工具使用任务中提升性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1601,7 +1601,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出CoffeeBench基准，评估LLM智能体在异构多智能体经济系统中的长程任务执行能力。与单智能体基准不同，它模拟多智能体交互的经济环境。"
+      "summary": "提出CoffeeBench，评估LLM智能体在异构多智能体经济系统中的长期任务能力。包含动态市场环境，测试合作与竞争场景，揭示现有智能体在经济推理上的不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1612,7 +1612,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对视频推理模型对输入帧无差别信任导致的盲信问题（准确率下降15-30%），提出置信度感知的工具编排方法，根据帧质量动态调用不同工具以提升鲁棒性。"
+      "summary": "针对视频推理模型对输入帧可靠性的一视同仁导致的“盲目信任”问题，提出置信度感知的工具编排。在真实干扰下准确率提升15-30%p，通过动态选择可靠帧和工具。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1623,7 +1623,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出基于梯度的连接（GBC）方法，解决多智能体系统中角色协作不协调和细粒度信用分配缺失的问题，通过梯度传播优化智能体间通信。"
+      "summary": "提出GBC，基于梯度的连接优化多智能体系统。通过梯度传播为不同智能体角色分配细粒度信用，缓解协调失败，在复杂任务上性能优于现有方法。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1634,7 +1634,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发现生成世界模型的幻觉集中在状态-动作空间的低覆盖区域，提出可预测和可预防的幻觉控制方法，在保持视觉流畅的同时减少动力学漂移。"
+      "summary": "发现生成式世界模型中的幻觉集中在状态-动作空间的低覆盖区域，具有可预测性。提出预防方法：利用不确定性估计控制生成轨迹，降低幻觉风险并保持视觉流畅性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1744,7 +1744,7 @@
       "publishedAt": "2026-06-29T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 摘要：GPT-5.6 预览、Grok 4.5 beta 发布、谷歌限制 Meta。具体细节未提供。"
+      "summary": "TLDR AI 报道：OpenAI 预览 GPT-5.6，xAI 发布 Grok 4.5 测试版，Google 对 Meta 施加限制。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1754,7 +1754,7 @@
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 摘要：美国与 OpenAI 之争、AI 经济现状、规模定律进展。具体细节未提供。"
+      "summary": "TLDR AI 报道：美国政府对 OpenAI 采取行动，AI 经济现状及规模定律新动态。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1926,7 +1926,7 @@
       "publishedAt": "2026-06-26T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI 预览 GPT-5.6，分 Sol、Terra、Luna 三个版本。受美国政府限制，仅向受信任合作伙伴推出。Sol 增强网络安全和安全性。"
+      "summary": "Smol AI News 报道，OpenAI 预览 GPT-5.6 三个变体（Sol/Terra/Luna），因美国政府限制仅向受信任合作伙伴开放。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1936,7 +1936,7 @@
       "publishedAt": "2026-06-25T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Z.ai 的 GLM-5.2 在编码和智能体基准测试中领先，Code Arena 前端得分 1595，推理准确率 34.29% 且零失败。Databricks 将 GLM-5.2 速度提升至 392 tok/s。新模型 Ornith-1.0 以 MIT 许可发布。"
+      "summary": "Smol AI News 报道，Z.ai 的 GLM-5.2 在编码和 agent 基准测试中领先（Code Arena 前端 1595 分，推理准确率 34.29%），Databricks 将其速度优化至 392 tok/s；新模型 Ornith-1.0 以 MIT 许可发布。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2198,7 +2198,7 @@
       "publishedAt": "2026-06-27T05:23:22.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI 发布 GPT-5.6 的三个变体：Sol（旗舰）、Terra（中端）、Luna（低成本），仅限受信任合作伙伴使用。同日还向 OAI 和 ANT 提供分层发布。"
+      "summary": "Latent Space 报道，OpenAI 发布 GPT-5.6 的三个版本（Sol/Terra/Luna），仅限受信任合作伙伴使用。"
     },
     {
       "sourceId": "latent-space",
@@ -2208,7 +2208,7 @@
       "publishedAt": "2026-06-26T01:12:30.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI 报告自 2025 年 11 月以来，内部 Codex 输出 token 中位数增长：研究部门 56 倍、客户支持 32 倍、工程 27 倍、法律 13 倍。"
+      "summary": "Latent Space 报道，OpenAI 内部数据显示自 2025 年 11 月以来 Codex 输出 token 中位数增长：研究 56 倍、客服 32 倍、工程 27 倍、法律 13 倍。"
     },
     {
       "sourceId": "latent-space",
@@ -2218,7 +2218,7 @@
       "publishedAt": "2026-06-25T02:14:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 报道“Meta-Harness Summer”到来，意指 Meta 在工程约束和基准测试方面的进展。具体细节有限。"
+      "summary": "Latent Space 报道 Meta 在“harness”领域的新进展，标志着“Meta-Harness Summer”。"
     },
     {
       "sourceId": "latent-space",
@@ -2381,7 +2381,7 @@
       "publishedAt": "2026-06-29T18:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "本文指出 AI 代理并非真正的“同事”，而是工具。设想一个 AI 工具作为下属向人类汇报，但并非人类同事。"
+      "summary": "MIT Tech Review 文章指出，AI 代理不应被视为“同事”，它们只是工具，企业应将 AI 视为下属而非合作者。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2391,7 +2391,7 @@
       "publishedAt": "2026-06-29T14:44:01.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "企业 AI 投资激增，Gartner 称 2026 年为“转折年”，组织需将 AI 项目与战略目标对齐。高管转向 Agentic AI 以证明投资回报。"
+      "summary": "MIT Tech Review 报道，Gartner 称 2026 年是 AI 项目与业务目标对齐的“拐点年”，代理 AI 成为驱动 ROI 的关键。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2401,7 +2401,7 @@
       "publishedAt": "2026-06-25T14:22:59.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI 正迅速重塑零售业，最大变革并非虚拟试穿或聊天购物助手，而是幕后决策方式的变化，如产品搜索排序和营销自动化的改变。"
+      "summary": "MIT Tech Review 探讨 AI 时代零售业转型，最大变革在于后台决策优化（如产品搜索排名），而非前端应用。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2475,7 +2475,7 @@
       "category": "tech",
       "meta": "@sairahul1 · 121.4K 粉丝 · 876.6K 阅 · 547 赞 · 83 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享如何用Claude Cowork搭建一人公司，指出知识工作者60%时间花在邮件、报告整理等非核心任务上，通过AI自动化释放效率，实现单人全栈运营。"
+      "summary": "用 Claude Cowork 自动化邮件、报告、研究等日常事务，将知识工作者 60% 的非核心时间解放出来，专注真正需要思考的工作，打造单人公司。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2486,7 +2486,7 @@
       "category": "tech",
       "meta": "@crux_capital_ · 52.8K 粉丝 · 217.5K 阅 · 503 赞 · 56 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "深度分析Ouster（物理AI领域），提供对该公司技术、业务及在Physical AI中角色的详尽解读，自称最深入的研究报告，帮助投资者理解其价值。"
+      "summary": "深度分析激光雷达公司 Ouster 在物理 AI 领域的布局，作者称其为写过的最详尽报告，帮助理解 Ouster 产品与战略。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2497,7 +2497,7 @@
       "category": "tech",
       "meta": "@OracleLimited · 37.6K 粉丝 · 202.9K 阅 · 2.8K 赞 · 562 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍ORACLE作为Polymarket上官方AI代理交易系统，2026年自主AI代理占预测市场超30%活动，算法/AI钱包成为主导力量，该系统专为此场景设计。"
+      "summary": "自主 AI 代理已成为预测市场有效策略——ORACLE 推出官方代理在 Polymarket 交易，目前超 30% 活动来自算法与 AI 钱包。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2508,7 +2508,7 @@
       "category": "tech",
       "meta": "@OracleAiTrading · 34.1K 粉丝 · 176.1K 阅 · 2.7K 赞 · 567 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍ORACLE在Polymarket上的官方AI代理交易系统，2026年超30%预测市场活动来自算法/AI钱包，自主代理成为最有效策略。"
+      "summary": "ORACLE 官方 AI 代理在 Polymarket 交易，2026 年自主代理已是预测市场最有效策略，超 30% 钱包活动由算法驱动。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2519,7 +2519,7 @@
       "category": "tech",
       "meta": "@monokern · 1.9K 粉丝 · 175.8K 阅 · 546 赞 · 49 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "用Claude Code仅花2小时建成价值上万美元的动画网站，分享真实工作流程而非模板教程，以个人作品集为例演示如何生成高质量视觉站点。"
+      "summary": "用 Claude Code 两小时构建价值 1 万美元级别的动效网站，以个人作品集为例展示真实工作流，非模板教程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2530,7 +2530,7 @@
       "category": "tech",
       "meta": "@Oracle__Market · 5.9K 粉丝 · 100.0K 阅 · 2.1K 赞 · 823 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍ORACLE在Polymarket的官方AI代理交易系统，2026年自主AI代理贡献超30%预测市场活动，算法/AI钱包成为主流。"
+      "summary": "ORACLE 官方 AI 代理在 Polymarket 交易，2026 年自主代理已成预测市场主流，超 30% 活动来自算法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2541,7 +2541,7 @@
       "category": "tech",
       "meta": "@Oracle_Market__ · 25.1K 粉丝 · 99.3K 阅 · 2.8K 赞 · 224 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍ORACLE作为Polymarket上官方AI代理交易系统，2026年超30%活动来自算法/AI钱包，自主代理策略最有效。"
+      "summary": "ORACLE 推出官方 AI 代理在 Polymarket 交易，2026 年超 30% 市场活动由算法与 AI 钱包贡献。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2552,7 +2552,7 @@
       "category": "tech",
       "meta": "@cyrilXBT · 186.6K 粉丝 · 77.2K 阅 · 510 赞 · 93 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍Hermes+Obsidian+Claude Code三件套系统用于运行一人公司，强调真正高效的知识管理在于被问及业务时能立刻回答，而非使用多款App。"
+      "summary": "结合 Hermes、Obsidian 和 Claude Code 构建单人公司完整系统：通过一个测试点（能否即时回答业务问题）区分真自动化和只是用很多工具。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2563,7 +2563,7 @@
       "category": "tech",
       "meta": "@RhysSullivan · 57.4K 粉丝 · 48.9K 阅 · 501 赞 · 23 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "批评公司推广自定义AI代理，更希望直接使用其积累的技能、知识和API，而非被迫采用定制代理，呼吁回归开放调用方式。"
+      "summary": "主张直接使用公司积累的技能、知识和 API，而非接入各家定制 agent——认为大多数 agent 只是多余的代理层。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2574,7 +2574,7 @@
       "category": "tech",
       "meta": "@_avichawla · 71.1K 粉丝 · 39.8K 阅 · 501 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "清晰解释LLM推理的两阶段：prefill处理提示词（计算密集）与decode逐词生成（内存密集），揭示GPU在推理中的不同瓶颈。"
+      "summary": "LLM 推理分两个阶段：prefill 处理 prompt 属计算密集，decode 逐个生成 token 属内存密集，清晰解释 GPU 上的不同瓶颈。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2585,7 +2585,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 279.5K 粉丝 · 35.5K 阅 · 505 赞 · 54 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍Google基于Karpathy agentic工程理念开发的工具，以逐步指南区分生产级代理与vibe coding，强调该理念对构建可靠代理系统的核心作用。"
+      "summary": "Google 基于 Karpathy 在 Sequoia Ascent 2026 提出的 Agentic Engineering 概念推出工具，以步骤指南形式区分生产级 agent 工作与 vibe coding。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2596,7 +2596,46 @@
       "category": "tech",
       "meta": "@unicity_labs · 126.3K 粉丝 · 5.2K 阅 · 531 赞 · 200 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍Unicity安全计算平台，为自主AI重建身份、执行、治理和支付，目标构建无需人工干预的机器经济，支持机器间自主交互。"
+      "summary": "Unicity 正在构建面向自主 AI 的安全计算平台，重新为机器设计身份、执行、治理和支付，无需人类参与。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Loses Out on AI Boom as Stocks Trail by Most Since ‘01",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
+      "excerpt": "After a banner year for Chinese stocks on the back of AI advances, 2026 is not going well.",
+      "publishedAt": "2026-06-29T23:01:12.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "继2025年人工智能推动中国股市大涨后，2026年中国股市在AI热潮中落后，跌幅为2001年以来最大。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Climb on Tech, Yen Hits 40-Year Low: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+      "excerpt": "Asian equities rose, leaving the regional benchmark on track for its best quarterly gain in 17 years as technology stocks rallied. The yen weakened to a four-decade low against the dollar.",
+      "publishedAt": "2026-06-29T22:06:50.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "亚洲股市受科技股推动上涨，区域基准指数有望创17年来最佳季度涨幅；日元兑美元汇率跌至40年新低。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Yen Hits Four-Decade Low in Historic Slide That’s Rattled Japan",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan",
+      "excerpt": "The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.",
+      "publishedAt": "2026-06-29T14:09:50.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Taiwan Dollar Set to Face Pressure From Record Dividend Payouts",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/taiwan-dollar-set-to-face-pressure-from-record-dividend-payouts",
+      "excerpt": "The Taiwan dollar, which is on track for its first quarterly gain in a year, may face renewed pressure as the US currency strengthens and local companies boost dividend payouts to a record.",
+      "publishedAt": "2026-06-29T23:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "新台币有望实现一年来首次季度上涨，但面临美元走强及台湾企业创纪录股息支付带来的新压力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2606,7 +2645,7 @@
       "publishedAt": "2026-06-29T22:29:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "巴西糖业和燃料公司Raizen SA在2026年前三个月现金消耗34亿雷亚尔（约6.57亿美元），并几乎将其作物年度的减值费用翻倍，显示出在推进债务重组计划时持续面临挑战。"
+      "summary": "巴西糖与燃料公司Raizen SA报告2026年第一季度现金消耗34亿雷亚尔（约6.57亿美元），并大幅提高本作物年度减值拨备，显示债务重组中持续面临挑战。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2616,17 +2655,17 @@
       "publishedAt": "2026-06-29T22:01:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "油价维持涨势，伊朗寻求在美伊谈判前控制霍尔木兹海峡。美国和伊朗即将在多哈举行会谈，但双方信号矛盾，给结束四个月冲突的谈判带来不确定性。"
+      "summary": "在美伊多哈会谈前油价维持涨势，华盛顿与德黑兰发出的矛盾信号使结束四个月冲突的谈判前景不明。"
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Japan Stocks Set to Climb as Yen Hits 40-Year Low: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
-      "excerpt": "Japanese stocks were set to rise as the yen slid to a four-decade low against the dollar and a rebound in several US technology giants lifted Wall Street.",
-      "publishedAt": "2026-06-29T22:06:50.000Z",
+      "title": "Egypt Edges Closer to $1.6 Billion IMF Payout With Initial Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/egypt-edges-closer-to-1-6-billion-imf-payout-with-initial-deal",
+      "excerpt": "The International Monetary Fund and Egypt reached a preliminary deal on the country’s latest program review, putting Cairo on track to unlock more than $1.6 billion in financing.",
+      "publishedAt": "2026-06-29T22:41:51.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "日本股市预计上涨，因日元兑美元跌至40年低点，同时美国多家科技巨头反弹提振了华尔街。"
+      "summary": "国际货币基金组织（IMF）与埃及就最新项目审查达成初步协议，埃及有望获得超过16亿美元融资。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2645,7 +2684,7 @@
       "publishedAt": "2026-06-29T22:05:40.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "电力设备制造商Forgent Power Solutions Inc.及其私募股权支持者Neos Partners LP计划出售约3500万股股票，这将是该公司自2月上市以来的第三次股票出售。"
+      "summary": "配电设备制造商Forgent Power Solutions及其私募支持者Neos Partners LP拟出售约3500万股，为其2月上市以来第三次售股。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2655,7 +2694,7 @@
       "publishedAt": "2026-06-29T21:35:34.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "VCR Group创始人兼CEO David Rodolitz在直播中讨论了纽约尼克斯队在NBA总决赛获胜后在Flyfish Club举办的庆祝活动，并分享了作为俱乐部所有者的见解。"
+      "summary": "纽约尼克斯队NBA夺冠后在Flyfish Club举办庆祝派对，VCR集团创始人兼CEO戴维·罗多利茨作为俱乐部所有者分享了活动意义及未来计划。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2665,7 +2704,7 @@
       "publishedAt": "2026-06-29T21:35:05.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Bridge Football Group已收购瑞士最负盛名的足球队之一——草蜢俱乐部苏黎世。"
+      "summary": "瑞士著名足球俱乐部苏黎世草蜢被Bridge Football Group收购。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2674,8 +2713,7 @@
       "excerpt": "On the first day of trading following its spin-off from Honeywell International, Honeywell Aerospace CEO Jim Currier discussed the company's new status as a standalone aerospace and defense firm. Currier emphasized the company's embedded role within the aerospace and defense ecosystem, highlighting ",
       "publishedAt": "2026-06-29T21:24:35.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "霍尼韦尔航空航天CEO Jim Currier在从霍尼韦尔国际分拆后首个交易日讨论了公司作为独立航空航天与国防企业的新地位，并强调了其在行业生态系统中的嵌入角色。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2693,8 +2731,7 @@
       "excerpt": "Prime Minister Sanae Takaichi is staking her legacy as Japan’s first female premier on an unprecedented plan to reshape the country’s industrial base for decades to come.",
       "publishedAt": "2026-06-29T21:00:00.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "日本首相高市早苗正将其政治遗产押注在一项前所未有的经济计划上，该计划旨在在未来几十年重塑日本的产业基础。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2703,8 +2740,7 @@
       "excerpt": "円が40年ぶり安値、米イラン協議、FRBの独立性、ウォール街沸く、ビットコインETFから資金流出",
       "publishedAt": "2026-06-29T20:59:51.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "今日精选五条新闻：日元跌至40年低点、美伊谈判、美联储独立性、华尔街沸腾、比特币ETF资金外流。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2789,15 +2825,6 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Yen Hits 40-Year Low in Historic Slide That’s Rattled Japan",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan",
-      "excerpt": "The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.",
-      "publishedAt": "2026-06-29T14:09:50.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
       "title": "Mexico Central Bank Adds Bond-Buying Tool to Back Liquidity",
       "url": "https://www.bloomberg.com/news/articles/2026-06-29/mexico-central-bank-adds-bond-buying-tool-to-support-liquidity",
       "excerpt": "Mexico’s central bank published regulations allowing it to buy some local government securities to support money-market liquidity when needed, expanding its toolkit to ensure the proper functioning of markets during selloffs or periods of high volatility.",
@@ -2847,33 +2874,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-29/test-your-etf-knowledge-in-our-iq-test-video",
       "excerpt": "Bloomberg's Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
       "publishedAt": "2026-06-29T19:34:47.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Rises as US and Iran Halt Attacks, But Hormuz Traffic Slows",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/latest-oil-market-news-and-analysis-for-june-29",
-      "excerpt": "Oil rose as traders assessed upcoming peace talks between the US and Iran following a weekend of flare-ups over the Strait of Hormuz that served as a reminder of the fragility of their truce.",
-      "publishedAt": "2026-06-28T22:01:18.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "ETF IQ 6/29/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-29/etf-iq-6-29-2026-video",
-      "excerpt": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Laffer Tengler CEO & CIO Nancy Tengler, Gabelli Funds President & Co-CIO of Value Chris Marangi, Founders ETFs Portfolio Manager Mi",
-      "publishedAt": "2026-06-29T19:23:07.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Tokenization Diversifies Away from Crypto: Bui",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-29/tokenization-diversifies-away-from-crypto-bui-video",
-      "excerpt": "Giang Bui, VP and head of issuer growth at Securitize, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
-      "publishedAt": "2026-06-29T19:22:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3065,7 +3065,7 @@
       "publishedAt": "2026-06-29T21:30:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国首相基尔·斯塔默将公布一项国防计划，投入50亿英镑用于无人机。该长期延迟的蓝图可能仍无法满足军方对更多资金的呼吁。"
+      "summary": "英国首相基尔·斯塔默将公布国防计划，包含50亿英镑无人机投资，但长期延迟的蓝图难以平息军方对更多资金的呼吁。"
     },
     {
       "sourceId": "ft-companies",
@@ -3074,8 +3074,7 @@
       "excerpt": "Also in today’s newsletter: China grounds light aircraft after Beijing crash and foreign investors fear Japan is backsliding on reform",
       "publishedAt": "2026-06-29T21:26:03.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "超微电脑在台湾的办公室因芯片走私调查遭突击搜查。此外，中国在北京坠机后停飞轻型飞机，外国投资者担忧日本在改革上倒退。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3084,8 +3083,7 @@
       "excerpt": "Pendulum ‘swinging back towards economic nationalism’, warns one private equity executive",
       "publishedAt": "2026-06-29T21:00:01.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "外国投资者担忧日本在改革上倒退。一位私募股权高管警告称，钟摆正「摆回经济民族主义」。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3284,6 +3282,26 @@
       "publishedAt": "2026-06-29T04:30:05.000Z",
       "category": "finance",
       "source": "Financial Times"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+      "publishedAt": "2026-06-29T23:08:44.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "房产门户Zoopla数据显示，自1月以来挂牌出售的房屋中，五分之三仍未售出，主要由于高抵押贷款利率打击了买家意愿。"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "We had packed lunches every day for 10 years and retired at 40",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+      "publishedAt": "2026-06-29T23:03:26.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "FIRE运动（财务独立，提前退休）的追随者通过极致储蓄，例如连续10年自带午餐，从而在40岁实现退休，该运动鼓励最大限度的储蓄。"
     },
     {
       "sourceId": "bbc-business",
@@ -3507,24 +3525,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The government is reducing VAT from 20% to 5% on attractions and kids' meals as schools begin to break-up.",
       "publishedAt": "2026-06-25T08:19:54.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "EasyJet rejects fourth takeover offer",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The airline is questioning the \"deliverability\" of the offer.",
-      "publishedAt": "2026-06-25T10:27:25.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "publishedAt": "2026-06-25T15:32:04.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3841,8 +3841,7 @@
       "excerpt": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
       "publishedAt": "2026-06-29T21:19:28.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "委内瑞拉地震后数万人仍下落不明，救援人员正在废墟中倾听生命迹象，场面令人揪心。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3900,7 +3899,7 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
+      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
       "url": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
       "publishedAt": "2026-06-29T21:11:04.000Z",
@@ -3914,8 +3913,7 @@
       "excerpt": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
       "publishedAt": "2026-06-29T21:21:15.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "《星际宝贝》主演戴维·切斯本月在洛杉矶去世，享年35岁，死因为艾滋病。她曾出演《午夜凶铃》等片。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -4144,6 +4142,16 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "Venezuelans newly deported from US missing after hotel collapse",
+      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
+      "excerpt": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off a scramble to find survivors and bodies buried in the rubble, a",
+      "publishedAt": "2026-06-29T23:10:15.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "委内瑞拉拉瓜伊拉一家酒店在地震中倒塌，超过100名刚从美国被驱逐的委内瑞拉人失踪，搜救工作正在进行。"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
       "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
       "excerpt": "Caracas and La Guaira affected by 4.6-magnitude tremor as death toll passes 1,700 and humanitarian crisis grows A strong aftershock has rattled northern Venezuela, sending terrified residents racing on to the streets five days after the twin earthquakes that killed 1,719 people, left tens of thousan",
@@ -4175,15 +4183,6 @@
       "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
       "excerpt": "Western states experience unseasonally low temperatures but New York and Washington DC could reach 40C by end of week Unseasonal snow has fallen in some parts of the US, while other parts of the country brace for a heatwave this week. A strong cold front spread into the western US from the northern ",
       "publishedAt": "2026-06-29T12:09:00.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
-      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
-      "excerpt": "President says ‘we always hold onto hope’ as discovery of earthquake survivors spurs fresh search efforts despite dwindling chances of survival Mortuary in Caracas ‘overwhelmed’ as Venezuela struggles to respond after earthquakes A man and his teenage son were found alive under the rubble in Venezue",
-      "publishedAt": "2026-06-29T01:09:09.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -4234,13 +4233,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia politics live: McIntosh doubles down on call for Liberal ‘rebrand’; PM backs Hogan on Hanson",
+      "title": "Australia politics live: Geoffrey Watson criticises ‘silly’ call to pause Victorian big build projects over corruption",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
-      "excerpt": "Meanwhile Anthony Albanese says tax reforms ‘make system fairer’ and tells 7.30 the housing market was ‘broken’. Follow today’s news live Get our breaking news email, free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house",
-      "publishedAt": "2026-06-29T22:52:41.000Z",
+      "excerpt": "McIntosh doubles down on call for Liberal ‘rebrand’. Follow today’s news live Get our breaking news email, free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rate",
+      "publishedAt": "2026-06-30T00:06:29.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚总理阿尔巴尼斯表示税改能使制度更公平，并称住房市场存在问题。同时，麦金托什呼吁自由党进行品牌重塑。"
+      "summary": "Geoffrey Watson批评暂停维州大型建筑项目是“愚蠢”之举。McIntosh坚持要求自由党“重塑品牌”。查默斯为房价预测辩护，政府因房市降温面临压力。"
     },
     {
       "sourceId": "guardian-world",
@@ -4282,11 +4281,11 @@
       "sourceId": "guardian-world",
       "title": "Monaco explosion injures three and triggers police hunt",
       "url": "https://www.theguardian.com/world/2026/jun/29/monaco-explosion-injuries-triggers-police-hunt",
-      "excerpt": "Two people said to be in critical condition after CCTV shows man dropping backpack at residential building lobby An explosion in Monaco has triggered a police hunt for a man suspected of detonating a makeshift bomb that wounded three people. The blast occurred on Monday evening in the semi-enclave f",
+      "excerpt": "Two people said to be in critical condition after CCTV shows man dropping backpack at residential building lobby An explosion in Monaco has triggered a police hunt for a man suspected of detonating a makeshift bomb that injured three people. The blast occurred on Monday evening in the semi-enclave f",
       "publishedAt": "2026-06-29T22:51:00.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "摩纳哥发生爆炸，三人受伤，两人情况危急。监控显示一男子在住宅楼大堂丢弃背包，警方正在追捕嫌疑人。"
+      "summary": "摩纳哥一住宅楼大厅发生爆炸，监控显示一名男子放下背包后引爆简易炸弹，造成3人受伤，其中2人伤势严重，警方正在搜捕嫌疑人。"
     },
     {
       "sourceId": "guardian-world",
@@ -4380,13 +4379,13 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
+      "title": "Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
       "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-      "excerpt": "President Trump said the discussions would take place on Tuesday, after the United States and Iran exchanged strikes over the weekend. Iran did not confirm the talks but said consultations with Qatar were continuing.",
-      "publishedAt": "2026-06-29T22:04:49.000Z",
+      "excerpt": "After President Trump said U.S.-Iran talks would take place in the Qatari capital on Tuesday, an Iranian official said its delegation would only be talking to mediators about getting the U.S. to uphold its cease-fire commitments.",
+      "publishedAt": "2026-06-30T00:07:46.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国总统特朗普称美伊将于周二在卡塔尔举行新一轮会谈。此前双方周末互相发动袭击，伊朗未确认会谈但表示与卡塔尔的磋商仍在继续。"
+      "summary": "伊朗表示其代表团将前往多哈，但不会与美国直接会谈，仅讨论让美国遵守停火承诺。此前特朗普称美伊会谈将于周二在卡塔尔首都举行。"
     },
     {
       "sourceId": "nyt-world",
@@ -4413,8 +4412,7 @@
       "excerpt": "The death toll has risen to over 1,700, which is likely an undercount.",
       "publishedAt": "2026-06-29T22:05:55.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "委内瑞拉地震死亡人数已升至1700人以上，可能仍被低估，救援工作愈发艰难。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4448,19 +4446,20 @@
       "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
       "url": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
       "excerpt": "Andy Burnham, who looks set to become prime minister next month, said he would set up a new operation in Manchester called “No. 10 North” to give more funding and control to local leaders.",
-      "publishedAt": "2026-06-29T17:28:04.000Z",
+      "publishedAt": "2026-06-29T23:08:46.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "英国下月有望成为首相的安迪·伯纳姆承诺权力下放，将在曼彻斯特设立“北方唐宁街10号”，给予地方更多资金和自主权。"
     },
     {
       "sourceId": "nyt-world",
-      "title": "6 Killed in Shooting in Northern Germany After Family Dispute, Police Say",
+      "title": "6 Dead in Rare Shooting in Germany Over Custody of Girl, Police Say",
       "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
       "excerpt": "The authorities said a 45-year-old man opened fire at a youth facility after a quarrel about the custody of his baby daughter. The dead were all facility employees.",
-      "publishedAt": "2026-06-29T21:59:31.000Z",
+      "publishedAt": "2026-06-29T23:24:16.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "德国北部斯塔德发生枪击案，一名45岁男子因婴儿监护权纠纷向一处青少年设施开火，造成6名员工死亡。"
+      "summary": "德国发生罕见枪击案，一名45岁男子因婴儿女儿监护权纠纷在青少年设施开枪，造成6名员工死亡。"
     },
     {
       "sourceId": "nyt-world",
@@ -4487,8 +4486,7 @@
       "excerpt": "A heat wave responsible for shattering numerous temperature records in Western Europe continued its shift east.",
       "publishedAt": "2026-06-29T22:05:23.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "打破西欧多项温度纪录的热浪继续东移，东欧面临高温预警，文章提供防暑建议。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4506,8 +4504,7 @@
       "excerpt": "Keiko Fujimori, a daughter of the former strongman Alberto Fujimori, returns her family’s movement to power, but with a narrow victory in a divided country.",
       "publishedAt": "2026-06-29T21:45:23.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "秘鲁总统选举中，前强人阿尔贝托·藤森之女藤森惠子以微弱优势获胜，将藤森家族运动重新带回权力中心，拉美右翼再获一胜。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4526,7 +4523,7 @@
       "publishedAt": "2026-06-29T22:32:52.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "阿卜杜勒·阿哈德·莫曼德去世，他是唯一进入太空的阿富汗人，曾作为阿富汗空军飞行员被选入苏联太空计划，于1988年飞行。"
+      "summary": "阿富汗唯一进入太空的宇航员、前阿富汗空军飞行员阿卜杜勒·阿哈德·莫曼德去世。他于1988年参加苏联太空计划飞行，当时苏联正与阿富汗交战。"
     },
     {
       "sourceId": "nyt-world",
@@ -4560,9 +4557,10 @@
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes/heres-the-latest",
       "excerpt": "",
-      "publishedAt": "2026-06-29T20:33:17.000Z",
+      "publishedAt": "2026-06-29T23:41:37.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "暂无具体报道内容。"
     },
     {
       "sourceId": "nyt-world",
@@ -4572,7 +4570,7 @@
       "publishedAt": "2026-06-29T22:58:36.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "在墨西哥塞拉亚，当地贩毒集团将青少年足球联赛作为最新商业手段，把足球场变成血腥战场。"
+      "summary": "墨西哥塞拉亚，当地贩毒集团将青少年足球联赛作为新业务，把足球场变成血腥战场。"
     },
     {
       "sourceId": "nyt-world",
@@ -5008,13 +5006,72 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Migrants in South Africa fear violence ahead of June 30 deadline",
+      "url": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline?traffic_source=rss",
+      "excerpt": "An anti-immigrant June 30 deadline not recognised by authorities is fuelling fear among migrants.",
+      "publishedAt": "2026-06-30T00:02:08.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "南非一个未被当局承认的6月30日反移民截止日期引发移民恐惧，担心遭受暴力。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
+      "excerpt": "Trump says meeting with Iran will take place in Doha today but Tehran says there are no plans for talks in coming days.",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "特朗普称当天将在多哈与伊朗举行会议，但伊朗否认，表示近期没有会谈计划。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Sixty-six years on: The promise of DRC independence remains unfulfilled",
+      "url": "https://www.aljazeera.com/news/2026/6/29/sixty-six-years-on-the-promise-of-drc-independence-remains-unfulfilled?traffic_source=rss",
+      "excerpt": "The DRC’s independence anniversary renews debate over progress, security and state capacity.",
+      "publishedAt": "2026-06-29T23:57:22.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "刚果（金）独立66周年之际，关于进步、安全与国家能力的辩论再次引发关注，独立承诺仍未完全实现。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Anxiety turns to joy as Brazil qualifies for the Final 16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/anxiety-turns-to-joy-as-brazil-qualifies-for-the-final-16?traffic_source=rss",
+      "excerpt": "Brazil fans at a fan fest on Rio de Janeiro celebrated after their team overturned Japan’s early lead and won 2-1.",
+      "publishedAt": "2026-06-29T23:56:18.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "巴西队在日本先进球的情况下2-1逆转，晋级16强，里约热内卢球迷从焦虑转为狂欢。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+      "excerpt": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.",
+      "publishedAt": "2026-06-29T23:29:41.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "以色列空袭加沙汗尤尼斯马瓦西地区人道主义区，导致2人死亡、多人受伤，帐篷被点燃。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Paraguay shock Germany in shootout win for one of all-time World Cup upsets",
+      "url": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets?traffic_source=rss",
+      "excerpt": "Germany lose on penalties to Paraguay after a 1-1 draw in their FIFA World Cup 2026 last-32 match.",
+      "publishedAt": "2026-06-29T23:28:53.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit",
       "url": "https://www.aljazeera.com/sports/2026/6/29/australian-football-legend-sam-kerr-signs-with-gotham-fc-after-chelsea-exit?traffic_source=rss",
       "excerpt": "Kerr signs with the NWSL champions until 2030, returning to the US league after six years spent with Chelsea in England.",
       "publishedAt": "2026-06-29T22:37:28.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "澳大利亚足球明星萨姆·克尔与NWSL冠军球队哥谭FC签约至2030年，结束六年的切尔西生涯后重返美国联赛。"
+      "summary": "澳大利亚女足传奇萨姆·科尔离开切尔西后，与美国NWSL冠军哥谭FC签约至2030年，重返美国联赛。"
     },
     {
       "sourceId": "aljazeera",
@@ -5041,8 +5098,7 @@
       "excerpt": "The US top diplomat commends Libyan leaders' efforts to 'overcome divisions' after talks with LNA's Saddam Haftar.",
       "publishedAt": "2026-06-29T21:30:07.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "美国国务卿卢比奥会晤利比亚国民军指挥官萨达姆·哈夫塔尔，称赞利领导人努力克服分裂，推动解决利比亚危机。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5051,8 +5107,7 @@
       "excerpt": "Hundreds of Venezuelans are sheltering at a golf course in La Guaira after last week's deadly earthquakes.",
       "publishedAt": "2026-06-29T21:27:44.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "委内瑞拉地震后，数百名灾民在拉瓜伊拉一处高尔夫球场避难。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5061,8 +5116,7 @@
       "excerpt": "Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.",
       "publishedAt": "2026-06-29T21:01:38.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "以色列财政部长斯莫特里赫呼吁立即在加沙地带建立犹太人定居点并实施征服。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5182,58 +5236,31 @@
       "source": "Al Jazeera"
     },
     {
-      "sourceId": "aljazeera",
-      "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
-      "excerpt": "Justices rule in favour of expanded executive power, preserving Lisa Cook’s Fed position amid Trump’s dismissal attempt.",
-      "publishedAt": "2026-06-29T16:59:51.000Z",
+      "sourceId": "the-diplomat",
+      "title": "What If Russia Asks Kazakhstan for Fuel?",
+      "url": "https://thediplomat.com/2026/06/what-if-russia-asks-kazakhstan-for-fuel/",
+      "excerpt": "Kazakhstan could plug Russia's current gasoline deficit, but it's a risk. Astana struggles already with self-sufficiency.",
+      "publishedAt": "2026-06-29T17:48:00.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
+      "source": "The Diplomat"
     },
     {
-      "sourceId": "aljazeera",
-      "title": "Venezuela quakes death toll rises to 1,719, thousands still missing",
-      "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
-      "excerpt": "Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week",
-      "publishedAt": "2026-06-29T16:42:41.000Z",
+      "sourceId": "the-diplomat",
+      "title": "Months After Attacks, Chinese Work Resumes on the Dushanbe-Kulma Highway",
+      "url": "https://thediplomat.com/2026/06/months-after-attacks-chinese-work-resumes-on-the-dushanbe-kulma-highway/",
+      "excerpt": "Chinese workers have reportedly resumed construction on a critical highway along the Afghanistan-Tajikistan border where two such workers were killed in November 2025.",
+      "publishedAt": "2026-06-29T15:29:00.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
+      "source": "The Diplomat"
     },
     {
-      "sourceId": "aljazeera",
-      "title": "Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case",
-      "url": "https://www.aljazeera.com/sports/2026/6/29/ex-nba-players-malik-beasley-ed-davis-indicted-in-gambling-case?traffic_source=rss",
-      "excerpt": "Beasley, Davis and an NBA agent are among six defendants indicted on charges related to alleged sports betting plot.",
-      "publishedAt": "2026-06-29T16:38:33.000Z",
+      "sourceId": "the-diplomat",
+      "title": "‘Subversive Carrots’ and China’s Economic Influence Over the World",
+      "url": "https://thediplomat.com/2026/06/subversive-carrots-and-chinas-economic-influence-over-the-world/",
+      "excerpt": "“Economic statecraft is not as simple or easy as Chinese decisionmakers think or as U.S. policymakers and external observers might fear,” argues Audrye Wong, author of a new book on the topic.",
+      "publishedAt": "2026-06-29T14:48:00.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
-      "excerpt": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.",
-      "publishedAt": "2026-06-29T16:15:35.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
-      "excerpt": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
-      "publishedAt": "2026-06-29T16:01:07.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
-      "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
-      "excerpt": "The US Supreme Court has rejected a push by President Trump to throw out a jury's findings of sexual assault.",
-      "publishedAt": "2026-06-29T15:59:52.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
+      "source": "The Diplomat"
     },
     {
       "sourceId": "the-diplomat",
@@ -5475,33 +5502,6 @@
       "url": "https://thediplomat.com/2026/06/an-overview-of-corruption-investigations-in-the-philippines/",
       "excerpt": "The current ubiquity of corruption underscores the normalization of impunity in the country's politics, despite recent democratic uprisings.",
       "publishedAt": "2026-06-25T21:23:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "US Counterterrorism Aircraft Could Be Surprisingly Useful in a Taiwan War",
-      "url": "https://thediplomat.com/2026/06/us-counterterrorism-aircraft-could-be-surprisingly-useful-in-a-taiwan-war/",
-      "excerpt": "Some equipment central for the Global War on Terror could play important roles in a potential conflict against China.",
-      "publishedAt": "2026-06-25T18:02:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "ASEAN Membership for Timor-Leste",
-      "url": "https://thediplomat.com/2026/06/asean-membership-for-timor-leste/",
-      "excerpt": "Doors open, but structural risks remain.",
-      "publishedAt": "2026-06-26T00:22:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "EU-Kazakhstan: Connectivity at the Core",
-      "url": "https://thediplomat.com/2026/06/eu-kazakhstan-connectivity-at-the-core/",
-      "excerpt": "Amid Kazakhstan and the European Union's multifaceted relations, connectivity remains a throughline.",
-      "publishedAt": "2026-06-25T17:29:00.000Z",
       "category": "politics",
       "source": "The Diplomat"
     }
